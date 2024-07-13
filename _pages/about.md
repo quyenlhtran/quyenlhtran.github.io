@@ -18,9 +18,9 @@ Welcome to my personal website! I'm Quyen Tran, a girl passionate about explorin
   Majors: Computer Science and Mathematics 
 
 ## 🧑‍💻 Interests
-- Algorithms, logic, theoretical problems, and optimization in machine learning/AI
+- Algorithms design, logic, and optimization, especially in machine learning/AI
 - Combinatorics, graph theory, and mathematical modeling
-- Collaborative projects/ research combining math theory with computer applications
+- Interdisciplinary collaboration
 
 ## 💻 Technologies
 - **Programming Languages:** Python, Java, JavaScript, R
