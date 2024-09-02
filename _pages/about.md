@@ -16,12 +16,3 @@ Welcome to my personal website! I'm Quyen Tran, a girl passionate about explorin
 ## 🎓 Education
 - **DePauw University**  
   Majors: Computer Science and Mathematics 
-
-## 🧑‍💻 Interests
-- Algorithms design, logic, and optimization, especially in machine learning/AI
-- Combinatorics, graph theory, and mathematical modeling
-- Interdisciplinary collaboration
-
-## 💻 Technologies
-- **Programming Languages:** Python, Java, JavaScript, R
-- **Mathematical and Scientific Tools:** LaTeX, MATLAB
