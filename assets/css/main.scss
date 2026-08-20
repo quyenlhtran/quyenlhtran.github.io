@@ -62,16 +62,23 @@ html[data-theme="dark"] {
   min-width: 0;
 }
 
-// The al-folio about layout hardcodes “selected publications”. Keep its native
-// selected-papers block while using a label that reflects the selected content.
-.post h2 > a[href$="/publications/"] {
-  display: inline-block;
-  text-indent: -9999px;
+.about-social-row {
+  position: relative;
+}
 
-  &::after {
-    display: block;
-    content: "Selected posters and manuscripts";
-    text-indent: 0;
+.about-last-updated {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 575.98px) {
+  .about-last-updated {
+    position: static;
+    margin-top: 0.75rem;
+    text-align: right;
   }
 }
 
@@ -418,6 +425,13 @@ textarea {
     color: #b05800;
     font-size: 1rem;
     font-weight: 700;
+  }
+
+  .cv-last-updated {
+    margin-left: auto;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    font-weight: 400;
   }
 }
 

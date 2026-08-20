@@ -5,12 +5,14 @@ title: CV
 nav: true
 nav_order: 1
 description:
+last_updated: August 2026
 ---
 
 <article class="cv-document">
   <div class="cv-page-title">
     <span>CV</span>
     <a href="{{ '/assets/pdf/quyen-tran-cv.pdf' | relative_url }}"><i class="fa-regular fa-file-pdf" aria-hidden="true"></i> PDF version</a>
+    <span class="cv-last-updated">Last updated: {{ page.last_updated }}</span>
   </div>
 
   <header class="cv-header">

@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle:
+last_updated: August 2026
 
 profile:
   align: right
