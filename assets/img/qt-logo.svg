@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">QT logo</title>
+  <style>
+    text {
+      fill: #2f3e63;
+      font-family: Cambria, Georgia, serif;
+      font-size: 58px;
+      font-weight: 700;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      text {
+        fill: #86a8e7;
+      }
+    }
+  </style>
+  <text x="64" y="83" text-anchor="middle">QT</text>
+</svg>
