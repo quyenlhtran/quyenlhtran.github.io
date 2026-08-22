@@ -12,7 +12,7 @@ horizontal: false
 <!-- _pages/projects.md -->
 
 <p class="project-gallery-intro">
-  Here are some projects I have worked on through coursework, independent study, and collaboration. Select a project to learn more or view its related paper.
+  Here are some projects I have worked on for coursework and explored out of curiosity. Select a project to learn more or view its related paper.
 </p>
 
 {% assign sorted_projects = site.projects | sort: "importance" %}
