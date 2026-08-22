@@ -281,12 +281,18 @@ last_updated: August 2026
   </section>
 
   <section>
-    <h2>Teaching Assistant</h2>
-  <div class="cv-list-row"><span>Fall 2026</span><span><a href="https://www.depauw.edu/academics/academic-resources/peer-tutoring/">STEM Guide</a> (Teaching Assistant &amp; Tutor), CSC 121: Introduction to Computer Science</span></div>
-  <div class="cv-list-row"><span>Spring 2026</span><span>Teaching Assistant, CSC 121: Introduction to Computer Science</span></div>
-  <div class="cv-list-row"><span>Spring 2025</span><span>Lab Assistant, CSC 121: Introduction to Computer Science</span></div>
-  <div class="cv-list-row"><span>2024–2025</span><span>Math Tutor: Discrete Math, Introduction to Proof, Calculus I–III, Linear Algebra</span></div>
-  <div class="cv-list-row"><span>Spring 2024</span><span>Math Tutor: Discrete Math, Calculus I–II</span></div>
+    <h2>Teaching Assistant &amp; Services</h2>
+    <h3>Teaching</h3>
+    <div class="cv-list-row"><span>Fall 2026</span><span><a href="https://www.depauw.edu/academics/academic-resources/peer-tutoring/">STEM Guide</a> (Teaching Assistant &amp; Tutor) for CSC 121: Introduction to Computer Science</span></div>
+    <div class="cv-list-row"><span>Spring 2026</span><span>Teaching Assistant for CSC 121: Introduction to Computer Science</span></div>
+    <div class="cv-list-row"><span>Spring 2025</span><span>Lab Assistant for CSC 121: Introduction to Computer Science</span></div>
+    <div class="cv-list-row"><span>2024–2025</span><span>Math Tutor: Discrete Math, Intro to Proof, Calculus I–III, Linear Algebra</span></div>
+    <div class="cv-list-row"><span>Spring 2024</span><span>Math Tutor: Discrete Math, Calculus I–II</span></div>
+
+    <h3>Services</h3>
+    <div class="cv-list-row"><span>2023–2027</span><span>Vice President at DePauw Math Club</span></div>
+    <div class="cv-list-row"><span>2024–2025</span><span>Technical Advisor at DePauw Women in Computer Science</span></div>
+
   </section>
 
   <section>
