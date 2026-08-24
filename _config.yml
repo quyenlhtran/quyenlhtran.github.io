@@ -9,7 +9,7 @@ last_name: Tran
 contact_note:
 description: Personal website of Quyen Tran.
 footer_text: >
-  Theme by <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a>.
+  Adapted from <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> and customized by Quyen Tran.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Quyen Tran, personal website
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
