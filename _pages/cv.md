@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 1
 description:
-last_updated: August 2026
+last_updated: October 2026
 ---
 
 <article class="cv-document">
@@ -290,15 +290,15 @@ last_updated: August 2026
     <div class="cv-list-row"><span>Spring 2024</span><span>Math Tutor: Discrete Math, Calculus I–II</span></div>
 
     <h3>Services</h3>
-    <div class="cv-list-row"><span>2023–2027</span><span>Vice President at DePauw Math Club</span></div>
+    <div class="cv-list-row"><span>2023–2026</span><span>Vice President at DePauw Math Club</span></div>
     <div class="cv-list-row"><span>2024–2025</span><span>Technical Advisor at DePauw Women in Computer Science</span></div>
 
   </section>
 
   <section>
     <h2>Honors, Awards, and Grants</h2>
-    <div class="cv-list-row"><span>2023–2027</span><span>Science Research Fellow, DePauw University</span></div>
-    <div class="cv-list-row"><span>2023–2027</span><span>Dean’s List (every semester), DePauw University</span></div>
+    <div class="cv-list-row"><span>2023–2026</span><span>Science Research Fellow, DePauw University</span></div>
+    <div class="cv-list-row"><span>2023–2026</span><span>Dean’s List (every semester), DePauw University</span></div>
     <div class="cv-list-row"><span>2026</span><span>REUSE Internship Scholarship, Carnegie Mellon University</span></div>
     <div class="cv-list-row"><span>2026</span><span>Computer Science Honor Society, DePauw University</span></div>
     <div class="cv-list-row"><span>2025</span><span><a href="https://www.ams.org/news?news_id=7573">Waldemar J. Trjitzinsky Memorial Award</a>, American Mathematical Society</span></div>
