@@ -37,7 +37,7 @@ last_updated: August 2026
   <section>
     <h2>Education</h2>
     <div class="cv-dated-entry">
-      <div class="cv-date">Aug 2023 to<br>May 2027</div>
+      <div class="cv-date">Aug 2023 to<br>Dec 2026</div>
       <div>
         <strong>B.A. in Computer Science and Mathematics, GPA: 3.95/4.0, majors: 4.0/4.0</strong><br>
         <em>DePauw University, Greencastle, IN</em>
@@ -213,7 +213,7 @@ last_updated: August 2026
       </div>
     </div>
     <div class="cv-dated-entry">
-      <div class="cv-date">May 2024 to<br>Present</div>
+      <div class="cv-date">May 2024 to<br>May 2026</div>
       <div>
         <div class="cv-entry-heading"><strong>Undergraduate Researcher</strong><span><strong>DePauw University</strong></span></div>
         <div class="cv-entry-subtitle"><em>Departments of Computer Science and Mathematical Sciences</em></div>
